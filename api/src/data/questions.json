@@ -1,0 +1,112 @@
+[
+  {
+    "questionText": "Khái niệm 'phần đường xe chạy' được hiểu như thế nào?",
+    "answers": [
+      "Là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại.",
+      "Là phần đường dành cho người đi bộ.",
+      "Là phần đường dành cho xe thô sơ."
+    ],
+    "correctAnswerIndex": 0,
+    "categoryId": 1,
+    "isImportant": true
+  },
+  {
+    "questionText": "Làn đường là gì?",
+    "answers": [
+      "Là một phần của phần đường xe chạy được chia theo chiều dọc.",
+      "Là đường cho xe máy chạy.",
+      "Là đường cho người đi bộ."
+    ],
+    "correctAnswerIndex": 0,
+    "categoryId": 1,
+    "isImportant": false
+  },
+  {
+    "questionText": "Người điều khiển phương tiện giao thông phải đi bên nào?",
+    "answers": [
+      "Đi bên trái đường.",
+      "Đi bên phải đường.",
+      "Đi ở giữa đường."
+    ],
+    "correctAnswerIndex": 1,
+    "categoryId": 2,
+    "isImportant": true
+  },
+  {
+    "questionText": "Tại nơi giao nhau, ai được quyền ưu tiên?",
+    "answers": [
+      "Xe vào từ đường nhánh.",
+      "Xe trên đường ưu tiên.",
+      "Xe xin đường trước."
+    ],
+    "correctAnswerIndex": 1,
+    "categoryId": 2,
+    "isImportant": false
+  },
+  {
+    "questionText": "Khi lái xe ban đêm, cần chú ý điều gì?",
+    "answers": [
+      "Bật đèn pha liên tục.",
+      "Giữ khoảng cách và bật đèn đúng quy định.",
+      "Chạy sát xe phía trước."
+    ],
+    "correctAnswerIndex": 1,
+    "categoryId": 3,
+    "isImportant": false
+  },
+  {
+    "questionText": "Hành vi nào thể hiện văn hoá giao thông?",
+    "answers": [
+      "Nhường đường cho người đi bộ.",
+      "Phóng nhanh vượt ẩu.",
+      "Lạng lách đánh võng."
+    ],
+    "correctAnswerIndex": 0,
+    "categoryId": 3,
+    "isImportant": true
+  },
+  {
+    "questionText": "Cách xử lý khi gặp chướng ngại vật trên đường hẹp?",
+    "answers": [
+      "Phóng nhanh vượt qua.",
+      "Giảm tốc độ và nhường đường.",
+      "Bấm còi xin vượt."
+    ],
+    "correctAnswerIndex": 1,
+    "categoryId": 4,
+    "isImportant": false
+  },
+  {
+    "questionText": "Khi xuống dốc dài, nên làm gì?",
+    "answers": [
+      "Cắt côn để xe trôi.",
+      "Dùng phanh tay liên tục.",
+      "Về số thấp để hãm tốc độ."
+    ],
+    "correctAnswerIndex": 2,
+    "categoryId": 4,
+    "isImportant": true
+  },
+  {
+    "questionText": "Bảo dưỡng định kỳ xe giúp gì?",
+    "answers": [
+      "Tăng chi phí sử dụng xe.",
+      "Giảm tuổi thọ xe.",
+      "Phát hiện sớm hỏng hóc và tăng độ bền."
+    ],
+    "correctAnswerIndex": 2,
+    "categoryId": 5,
+    "isImportant": false
+  },
+  {
+    "questionText": "Cần kiểm tra gì trước khi khởi hành?",
+    "answers": [
+      "Đèn, phanh, lốp và nhiên liệu.",
+      "Hệ thống giải trí.",
+      "Ghế ngồi và điều hòa."
+    ],
+    "correctAnswerIndex": 0,
+    "categoryId": 5,
+    "isImportant": true
+  }
+]

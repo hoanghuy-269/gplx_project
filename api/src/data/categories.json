@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 1,
+        "name": "Khái niệm"
+    },
+    {
+        "_id": 2,
+        "name": "Quy tắc giao thông"
+    },
+    {
+        "_id": 3,
+        "name": "Văn hóa và đạo đức lái xe"
+    },
+    {
+        "_id": 4,
+        "name": "Kỹ thuật lái xe"
+    },
+    {
+        "_id": 5,
+        "name": "Cấu tạo và sửa chữa"
+    }
+]
